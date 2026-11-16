@@ -1,0 +1,3096 @@
+{
+ "groups": [
+  "Saluti ed espressioni",
+  "Lingua e paesi",
+  "Persone e lavori",
+  "Pronomi",
+  "Verbi e movimento",
+  "Internet e tempo",
+  "Altro"
+ ],
+ "entries": [
+  {
+   "id": "char:人",
+   "hanzi": "人",
+   "pinyin": "rén",
+   "altPinyin": [],
+   "meaning": "persona",
+   "answers": [
+    "persona",
+    "essere umano",
+    "uomo"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:中",
+   "hanzi": "中",
+   "pinyin": "zhōng",
+   "altPinyin": [],
+   "meaning": "centro, in mezzo",
+   "answers": [
+    "centro, in mezzo",
+    "centro",
+    "in mezzo"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:文",
+   "hanzi": "文",
+   "pinyin": "wén",
+   "altPinyin": [],
+   "meaning": "scrittura, lingua, cultura",
+   "answers": [
+    "scrittura, lingua, cultura",
+    "scrittura",
+    "lingua",
+    "cultura"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:国",
+   "hanzi": "国",
+   "pinyin": "guó",
+   "altPinyin": [],
+   "meaning": "paese, nazione",
+   "answers": [
+    "paese, nazione",
+    "paese",
+    "nazione"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:化",
+   "hanzi": "化",
+   "pinyin": "huà",
+   "altPinyin": [],
+   "meaning": "trasformare",
+   "answers": [
+    "trasformare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:老",
+   "hanzi": "老",
+   "pinyin": "lǎo",
+   "altPinyin": [],
+   "meaning": "vecchio",
+   "answers": [
+    "vecchio",
+    "anziano"
+   ],
+   "note": "prefisso di rispetto",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:师",
+   "hanzi": "师",
+   "pinyin": "shī",
+   "altPinyin": [],
+   "meaning": "maestro, esperto",
+   "answers": [
+    "maestro, esperto",
+    "maestro",
+    "esperto",
+    "insegnante"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:学",
+   "hanzi": "学",
+   "pinyin": "xué",
+   "altPinyin": [],
+   "meaning": "studiare, imparare",
+   "answers": [
+    "studiare, imparare",
+    "studiare",
+    "imparare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:生",
+   "hanzi": "生",
+   "pinyin": "shēng",
+   "altPinyin": [],
+   "meaning": "nascere, vita",
+   "answers": [
+    "nascere, vita",
+    "nascere",
+    "vita"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:医",
+   "hanzi": "医",
+   "pinyin": "yī",
+   "altPinyin": [],
+   "meaning": "medicina, curare",
+   "answers": [
+    "medicina, curare",
+    "medicina",
+    "curare",
+    "medico",
+    "dottore"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:再",
+   "hanzi": "再",
+   "pinyin": "zài",
+   "altPinyin": [],
+   "meaning": "di nuovo",
+   "answers": [
+    "di nuovo",
+    "ancora",
+    "nuovamente"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:见",
+   "hanzi": "见",
+   "pinyin": "jiàn",
+   "altPinyin": [],
+   "meaning": "vedere, incontrare",
+   "answers": [
+    "vedere, incontrare",
+    "vedere",
+    "incontrare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:早",
+   "hanzi": "早",
+   "pinyin": "zǎo",
+   "altPinyin": [],
+   "meaning": "presto, mattina",
+   "answers": [
+    "presto, mattina",
+    "presto",
+    "mattina",
+    "mattino"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:回",
+   "hanzi": "回",
+   "pinyin": "huí",
+   "altPinyin": [],
+   "meaning": "tornare",
+   "answers": [
+    "tornare",
+    "ritornare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:来",
+   "hanzi": "来",
+   "pinyin": "lái",
+   "altPinyin": [],
+   "meaning": "venire",
+   "answers": [
+    "venire"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:去",
+   "hanzi": "去",
+   "pinyin": "qù",
+   "altPinyin": [],
+   "meaning": "andare",
+   "answers": [
+    "andare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:哪",
+   "hanzi": "哪",
+   "pinyin": "nǎ",
+   "altPinyin": [],
+   "meaning": "dove, quale",
+   "answers": [
+    "dove, quale",
+    "dove",
+    "quale"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:大",
+   "hanzi": "大",
+   "pinyin": "dà",
+   "altPinyin": [],
+   "meaning": "grande",
+   "answers": [
+    "grande",
+    "grosso"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:男",
+   "hanzi": "男",
+   "pinyin": "nán",
+   "altPinyin": [],
+   "meaning": "maschio",
+   "answers": [
+    "maschio"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:女",
+   "hanzi": "女",
+   "pinyin": "nǚ",
+   "altPinyin": [],
+   "meaning": "donna",
+   "answers": [
+    "donna",
+    "femmina"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:朋",
+   "hanzi": "朋",
+   "pinyin": "péng",
+   "altPinyin": [],
+   "meaning": "compagno, amico",
+   "answers": [
+    "compagno, amico",
+    "compagno",
+    "amico"
+   ],
+   "note": "si usa dentro 朋友",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "memo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:友",
+   "hanzi": "友",
+   "pinyin": "yǒu",
+   "altPinyin": [],
+   "meaning": "amico",
+   "answers": [
+    "amico"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:同",
+   "hanzi": "同",
+   "pinyin": "tóng",
+   "altPinyin": [],
+   "meaning": "stesso, insieme",
+   "answers": [
+    "stesso, insieme",
+    "stesso",
+    "insieme"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "memo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:事",
+   "hanzi": "事",
+   "pinyin": "shì",
+   "altPinyin": [],
+   "meaning": "faccenda, lavoro",
+   "answers": [
+    "faccenda, lavoro",
+    "faccenda",
+    "lavoro"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "memo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:工",
+   "hanzi": "工",
+   "pinyin": "gōng",
+   "altPinyin": [],
+   "meaning": "lavoro, opera",
+   "answers": [
+    "lavoro, opera",
+    "lavoro",
+    "opera"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:程",
+   "hanzi": "程",
+   "pinyin": "chéng",
+   "altPinyin": [],
+   "meaning": "percorso, procedura",
+   "answers": [
+    "percorso, procedura",
+    "percorso",
+    "procedura"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:网",
+   "hanzi": "网",
+   "pinyin": "wǎng",
+   "altPinyin": [],
+   "meaning": "rete",
+   "answers": [
+    "rete"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:络",
+   "hanzi": "络",
+   "pinyin": "luò",
+   "altPinyin": [],
+   "meaning": "rete, collegamento",
+   "answers": [
+    "rete, collegamento",
+    "rete",
+    "collegamento"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:室",
+   "hanzi": "室",
+   "pinyin": "shì",
+   "altPinyin": [],
+   "meaning": "stanza",
+   "answers": [
+    "stanza",
+    "camera"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:邻",
+   "hanzi": "邻",
+   "pinyin": "lín",
+   "altPinyin": [],
+   "meaning": "vicino",
+   "answers": [
+    "vicino"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:居",
+   "hanzi": "居",
+   "pinyin": "jū",
+   "altPinyin": [],
+   "meaning": "abitare",
+   "answers": [
+    "abitare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:板",
+   "hanzi": "板",
+   "pinyin": "bǎn",
+   "altPinyin": [],
+   "meaning": "asse",
+   "answers": [
+    "asse"
+   ],
+   "note": "nella parola 老板",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:这",
+   "hanzi": "这",
+   "pinyin": "zhè",
+   "altPinyin": [],
+   "meaning": "questo",
+   "answers": [
+    "questo",
+    "questa"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "memo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:那",
+   "hanzi": "那",
+   "pinyin": "nà",
+   "altPinyin": [],
+   "meaning": "quello",
+   "answers": [
+    "quello",
+    "quella"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:谁",
+   "hanzi": "谁",
+   "pinyin": "shéi",
+   "altPinyin": [
+    "shuí"
+   ],
+   "meaning": "chi",
+   "answers": [
+    "chi"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "word:Pronomi",
+    "word"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:上",
+   "hanzi": "上",
+   "pinyin": "shàng",
+   "altPinyin": [],
+   "meaning": "su, sopra, salire",
+   "answers": [
+    "su, sopra, salire",
+    "su",
+    "sopra",
+    "salire"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:下",
+   "hanzi": "下",
+   "pinyin": "xià",
+   "altPinyin": [],
+   "meaning": "giù, sotto, scendere",
+   "answers": [
+    "giù, sotto, scendere",
+    "giù",
+    "sotto",
+    "scendere"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:午",
+   "hanzi": "午",
+   "pinyin": "wǔ",
+   "altPinyin": [],
+   "meaning": "mezzogiorno",
+   "answers": [
+    "mezzogiorno"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:晚",
+   "hanzi": "晚",
+   "pinyin": "wǎn",
+   "altPinyin": [],
+   "meaning": "tardi, sera",
+   "answers": [
+    "tardi, sera",
+    "tardi",
+    "sera"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:他",
+   "hanzi": "他",
+   "pinyin": "tā",
+   "altPinyin": [],
+   "meaning": "lui",
+   "answers": [
+    "lui"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:她",
+   "hanzi": "她",
+   "pinyin": "tā",
+   "altPinyin": [],
+   "meaning": "lei",
+   "answers": [
+    "lei"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:它",
+   "hanzi": "它",
+   "pinyin": "tā",
+   "altPinyin": [],
+   "meaning": "esso",
+   "answers": [
+    "esso",
+    "essa"
+   ],
+   "note": "cose e animali",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:我",
+   "hanzi": "我",
+   "pinyin": "wǒ",
+   "altPinyin": [],
+   "meaning": "io",
+   "answers": [
+    "io"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:你",
+   "hanzi": "你",
+   "pinyin": "nǐ",
+   "altPinyin": [],
+   "meaning": "tu",
+   "answers": [
+    "tu"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:是",
+   "hanzi": "是",
+   "pinyin": "shì",
+   "altPinyin": [],
+   "meaning": "essere",
+   "answers": [
+    "essere",
+    "sono"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:说",
+   "hanzi": "说",
+   "pinyin": "shuō",
+   "altPinyin": [],
+   "meaning": "parlare, dire",
+   "answers": [
+    "parlare, dire",
+    "parlare",
+    "dire"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:好",
+   "hanzi": "好",
+   "pinyin": "hǎo",
+   "altPinyin": [],
+   "meaning": "buono, bene",
+   "answers": [
+    "buono, bene",
+    "buono",
+    "bene"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:妈",
+   "hanzi": "妈",
+   "pinyin": "mā",
+   "altPinyin": [],
+   "meaning": "mamma",
+   "answers": [
+    "mamma",
+    "madre"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:马",
+   "hanzi": "马",
+   "pinyin": "mǎ",
+   "altPinyin": [],
+   "meaning": "cavallo",
+   "answers": [
+    "cavallo"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:月",
+   "hanzi": "月",
+   "pinyin": "yuè",
+   "altPinyin": [],
+   "meaning": "luna",
+   "answers": [
+    "luna"
+   ],
+   "note": "in molti caratteri del corpo è carne, 肉 ròu",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:日",
+   "hanzi": "日",
+   "pinyin": "rì",
+   "altPinyin": [],
+   "meaning": "sole",
+   "answers": [
+    "sole"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:木",
+   "hanzi": "木",
+   "pinyin": "mù",
+   "altPinyin": [],
+   "meaning": "albero, legno",
+   "answers": [
+    "albero",
+    "albero, legno",
+    "legno"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:火",
+   "hanzi": "火",
+   "pinyin": "huǒ",
+   "altPinyin": [],
+   "meaning": "fuoco",
+   "answers": [
+    "fuoco"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:山",
+   "hanzi": "山",
+   "pinyin": "shān",
+   "altPinyin": [],
+   "meaning": "montagna",
+   "answers": [
+    "montagna",
+    "monte"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:口",
+   "hanzi": "口",
+   "pinyin": "kǒu",
+   "altPinyin": [],
+   "meaning": "bocca",
+   "answers": [
+    "bocca"
+   ],
+   "note": "parole parlate, suoni",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:虫",
+   "hanzi": "虫",
+   "pinyin": "chóng",
+   "altPinyin": [],
+   "meaning": "insetto",
+   "answers": [
+    "insetto"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:贝",
+   "hanzi": "贝",
+   "pinyin": "bèi",
+   "altPinyin": [],
+   "meaning": "conchiglia, denaro",
+   "answers": [
+    "conchiglia",
+    "conchiglia, denaro",
+    "denaro"
+   ],
+   "note": "antica moneta",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char",
+    "piece"
+   ],
+   "speak": true
+  },
+  {
+   "id": "particle:了",
+   "hanzi": "了",
+   "pinyin": "le",
+   "altPinyin": [
+    "liǎo"
+   ],
+   "meaning": "azione compiuta o cambiamento",
+   "answers": [
+    "azione compiuta o cambiamento",
+    "azione compiuta",
+    "cambiamento",
+    "finire"
+   ],
+   "note": "altra lettura: liǎo, finire",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle"
+   ],
+   "speak": false
+  },
+  {
+   "id": "particle:们",
+   "hanzi": "们",
+   "pinyin": "men",
+   "altPinyin": [],
+   "meaning": "suffisso del plurale per le persone",
+   "answers": [
+    "suffisso del plurale per le persone",
+    "plurale",
+    "suffisso plurale",
+    "plurale per persone"
+   ],
+   "note": "",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle"
+   ],
+   "speak": false
+  },
+  {
+   "id": "particle:的",
+   "hanzi": "的",
+   "pinyin": "de",
+   "altPinyin": [],
+   "meaning": "di, possessivo",
+   "answers": [
+    "di, possessivo",
+    "di",
+    "possessivo"
+   ],
+   "note": "",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle",
+    "memo"
+   ],
+   "speak": false
+  },
+  {
+   "id": "particle:吗",
+   "hanzi": "吗",
+   "pinyin": "ma",
+   "altPinyin": [],
+   "meaning": "rende la frase una domanda sì/no",
+   "answers": [
+    "rende la frase una domanda sì/no",
+    "particella interrogativa",
+    "domanda",
+    "rende la frase una domanda"
+   ],
+   "note": "",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle"
+   ],
+   "speak": false
+  },
+  {
+   "id": "particle:啊",
+   "hanzi": "啊",
+   "pinyin": "a",
+   "altPinyin": [],
+   "meaning": "particella che aggiunge calore",
+   "answers": [
+    "particella che aggiunge calore",
+    "calore",
+    "particella di calore"
+   ],
+   "note": "",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle"
+   ],
+   "speak": false
+  },
+  {
+   "id": "particle:啦",
+   "hanzi": "啦",
+   "pinyin": "la",
+   "altPinyin": [],
+   "meaning": "particella amichevole",
+   "answers": [
+    "particella amichevole",
+    "amichevole"
+   ],
+   "note": "了 + 啊",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle"
+   ],
+   "speak": false
+  },
+  {
+   "id": "particle:儿",
+   "hanzi": "儿",
+   "pinyin": "ér",
+   "altPinyin": [],
+   "meaning": "suffisso che aggiunge una r; da solo vuol dire bambino",
+   "answers": [
+    "suffisso che aggiunge una r; da solo vuol dire bambino",
+    "suffisso che aggiunge una r",
+    "da solo vuol dire bambino",
+    "r",
+    "suffisso r",
+    "bambino"
+   ],
+   "note": "哪儿 nǎr",
+   "type": "particle",
+   "group": null,
+   "tags": [
+    "particle"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:你好",
+   "hanzi": "你好",
+   "pinyin": "nǐhǎo",
+   "altPinyin": [],
+   "meaning": "ciao",
+   "answers": [
+    "ciao",
+    "salve"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:再见",
+   "hanzi": "再见",
+   "pinyin": "zàijiàn",
+   "altPinyin": [],
+   "meaning": "arrivederci",
+   "answers": [
+    "arrivederci",
+    "a rivederci",
+    "ci vediamo"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:早啊",
+   "hanzi": "早啊",
+   "pinyin": "zǎo a",
+   "altPinyin": [],
+   "meaning": "buongiorno",
+   "answers": [
+    "buongiorno",
+    "buon giorno",
+    "buondì"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:回来啦",
+   "hanzi": "回来啦",
+   "pinyin": "huílái la",
+   "altPinyin": [],
+   "meaning": "sei tornato!, eccoti!",
+   "answers": [
+    "sei tornato!, eccoti!",
+    "sei tornato!",
+    "eccoti!",
+    "eccoti",
+    "sei tornato",
+    "bentornato"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:去哪儿啊",
+   "hanzi": "去哪儿啊",
+   "pinyin": "qù nǎr a",
+   "altPinyin": [],
+   "meaning": "dove vai?",
+   "answers": [
+    "dove vai?",
+    "dove vai"
+   ],
+   "note": "saluto di circostanza",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:嗨",
+   "hanzi": "嗨",
+   "pinyin": "hāi",
+   "altPinyin": [],
+   "meaning": "ciao",
+   "answers": [
+    "ciao",
+    "hi",
+    "hey"
+   ],
+   "note": "da hi",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:哈喽",
+   "hanzi": "哈喽",
+   "pinyin": "hālóu",
+   "altPinyin": [],
+   "meaning": "hello",
+   "answers": [
+    "hello",
+    "ciao",
+    "salve"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:晚上好",
+   "hanzi": "晚上好",
+   "pinyin": "wǎnshang hǎo",
+   "altPinyin": [],
+   "meaning": "buonasera",
+   "answers": [
+    "buonasera",
+    "buona sera"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Saluti ed espressioni",
+   "tags": [
+    "word",
+    "word:Saluti ed espressioni"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:中文",
+   "hanzi": "中文",
+   "pinyin": "Zhōngwén",
+   "altPinyin": [],
+   "meaning": "lingua cinese",
+   "answers": [
+    "lingua cinese",
+    "cinese"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:汉语",
+   "hanzi": "汉语",
+   "pinyin": "Hànyǔ",
+   "altPinyin": [],
+   "meaning": "lingua cinese",
+   "answers": [
+    "lingua cinese",
+    "cinese"
+   ],
+   "note": "lingua Han",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:普通话",
+   "hanzi": "普通话",
+   "pinyin": "Pǔtōnghuà",
+   "altPinyin": [],
+   "meaning": "mandarino",
+   "answers": [
+    "mandarino"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:中国",
+   "hanzi": "中国",
+   "pinyin": "Zhōngguó",
+   "altPinyin": [],
+   "meaning": "Cina",
+   "answers": [
+    "Cina"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:意大利",
+   "hanzi": "意大利",
+   "pinyin": "Yìdàlì",
+   "altPinyin": [],
+   "meaning": "Italia",
+   "answers": [
+    "Italia"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:文化",
+   "hanzi": "文化",
+   "pinyin": "wénhuà",
+   "altPinyin": [],
+   "meaning": "cultura",
+   "answers": [
+    "cultura"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:国家",
+   "hanzi": "国家",
+   "pinyin": "guójiā",
+   "altPinyin": [],
+   "meaning": "nazione, stato",
+   "answers": [
+    "nazione, stato",
+    "nazione",
+    "stato"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:外国",
+   "hanzi": "外国",
+   "pinyin": "wàiguó",
+   "altPinyin": [],
+   "meaning": "estero",
+   "answers": [
+    "estero",
+    "straniero"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Lingua e paesi",
+   "tags": [
+    "word",
+    "word:Lingua e paesi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:老师",
+   "hanzi": "老师",
+   "pinyin": "lǎoshī",
+   "altPinyin": [],
+   "meaning": "insegnante",
+   "answers": [
+    "insegnante",
+    "professore",
+    "maestro"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:学生",
+   "hanzi": "学生",
+   "pinyin": "xuésheng",
+   "altPinyin": [],
+   "meaning": "studente",
+   "answers": [
+    "studente"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:医生",
+   "hanzi": "医生",
+   "pinyin": "yīshēng",
+   "altPinyin": [],
+   "meaning": "dottore",
+   "answers": [
+    "dottore",
+    "medico"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:同学",
+   "hanzi": "同学",
+   "pinyin": "tóngxué",
+   "altPinyin": [],
+   "meaning": "compagno di classe",
+   "answers": [
+    "compagno di classe",
+    "compagno",
+    "compagna di classe",
+    "compagna"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:朋友",
+   "hanzi": "朋友",
+   "pinyin": "péngyou",
+   "altPinyin": [],
+   "meaning": "amico",
+   "answers": [
+    "amico",
+    "amica"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:男朋友",
+   "hanzi": "男朋友",
+   "pinyin": "nánpéngyou",
+   "altPinyin": [],
+   "meaning": "ragazzo, fidanzato",
+   "answers": [
+    "ragazzo, fidanzato",
+    "ragazzo",
+    "fidanzato"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:女朋友",
+   "hanzi": "女朋友",
+   "pinyin": "nǚpéngyou",
+   "altPinyin": [],
+   "meaning": "ragazza, fidanzata",
+   "answers": [
+    "ragazza, fidanzata",
+    "ragazza",
+    "fidanzata"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:网友",
+   "hanzi": "网友",
+   "pinyin": "wǎngyǒu",
+   "altPinyin": [],
+   "meaning": "amico online, utente di internet",
+   "answers": [
+    "amico online, utente di internet",
+    "amico online",
+    "utente di internet"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:室友",
+   "hanzi": "室友",
+   "pinyin": "shìyǒu",
+   "altPinyin": [],
+   "meaning": "coinquilino",
+   "answers": [
+    "coinquilino",
+    "coinquilina"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:邻居",
+   "hanzi": "邻居",
+   "pinyin": "línjū",
+   "altPinyin": [],
+   "meaning": "vicino di casa",
+   "answers": [
+    "vicino di casa",
+    "vicino",
+    "vicina"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:同事",
+   "hanzi": "同事",
+   "pinyin": "tóngshì",
+   "altPinyin": [],
+   "meaning": "collega",
+   "answers": [
+    "collega"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:老板",
+   "hanzi": "老板",
+   "pinyin": "lǎobǎn",
+   "altPinyin": [],
+   "meaning": "capo, titolare",
+   "answers": [
+    "capo, titolare",
+    "capo",
+    "titolare",
+    "boss"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:工程师",
+   "hanzi": "工程师",
+   "pinyin": "gōngchéngshī",
+   "altPinyin": [],
+   "meaning": "ingegnere",
+   "answers": [
+    "ingegnere"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Persone e lavori",
+   "tags": [
+    "word",
+    "word:Persone e lavori"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:我们",
+   "hanzi": "我们",
+   "pinyin": "wǒmen",
+   "altPinyin": [],
+   "meaning": "noi",
+   "answers": [
+    "noi"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:你们",
+   "hanzi": "你们",
+   "pinyin": "nǐmen",
+   "altPinyin": [],
+   "meaning": "voi",
+   "answers": [
+    "voi"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:他们",
+   "hanzi": "他们",
+   "pinyin": "tāmen",
+   "altPinyin": [],
+   "meaning": "loro",
+   "answers": [
+    "loro"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:我的",
+   "hanzi": "我的",
+   "pinyin": "wǒ de",
+   "altPinyin": [],
+   "meaning": "mio",
+   "answers": [
+    "mio",
+    "mia",
+    "miei",
+    "mie"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:你的",
+   "hanzi": "你的",
+   "pinyin": "nǐ de",
+   "altPinyin": [],
+   "meaning": "tuo",
+   "answers": [
+    "tuo",
+    "tua",
+    "tuoi",
+    "tue"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:他的",
+   "hanzi": "他的",
+   "pinyin": "tā de",
+   "altPinyin": [],
+   "meaning": "suo",
+   "answers": [
+    "suo",
+    "sua",
+    "suoi",
+    "sue"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:哪儿",
+   "hanzi": "哪儿",
+   "pinyin": "nǎr",
+   "altPinyin": [],
+   "meaning": "dove",
+   "answers": [
+    "dove"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Pronomi",
+   "tags": [
+    "word",
+    "word:Pronomi"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:回来",
+   "hanzi": "回来",
+   "pinyin": "huílái",
+   "altPinyin": [],
+   "meaning": "tornare",
+   "answers": [
+    "tornare",
+    "ritornare"
+   ],
+   "note": "verso chi parla",
+   "type": "word",
+   "group": "Verbi e movimento",
+   "tags": [
+    "word",
+    "word:Verbi e movimento"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:回去",
+   "hanzi": "回去",
+   "pinyin": "huíqù",
+   "altPinyin": [],
+   "meaning": "tornare",
+   "answers": [
+    "tornare",
+    "ritornare"
+   ],
+   "note": "via da chi parla",
+   "type": "word",
+   "group": "Verbi e movimento",
+   "tags": [
+    "word",
+    "word:Verbi e movimento"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:我说中文",
+   "hanzi": "我说中文",
+   "pinyin": "wǒ shuō Zhōngwén",
+   "altPinyin": [],
+   "meaning": "parlo cinese",
+   "answers": [
+    "parlo cinese",
+    "parlo il cinese",
+    "io parlo cinese"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Verbi e movimento",
+   "tags": [
+    "word",
+    "word:Verbi e movimento"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:互联网",
+   "hanzi": "互联网",
+   "pinyin": "hùliánwǎng",
+   "altPinyin": [],
+   "meaning": "internet",
+   "answers": [
+    "internet"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:网络",
+   "hanzi": "网络",
+   "pinyin": "wǎngluò",
+   "altPinyin": [],
+   "meaning": "rete",
+   "answers": [
+    "rete"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:上网",
+   "hanzi": "上网",
+   "pinyin": "shàngwǎng",
+   "altPinyin": [],
+   "meaning": "andare online",
+   "answers": [
+    "andare online",
+    "navigare",
+    "connettersi"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:上学",
+   "hanzi": "上学",
+   "pinyin": "shàngxué",
+   "altPinyin": [],
+   "meaning": "andare a scuola",
+   "answers": [
+    "andare a scuola"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:早上",
+   "hanzi": "早上",
+   "pinyin": "zǎoshang",
+   "altPinyin": [],
+   "meaning": "mattina presto",
+   "answers": [
+    "mattina presto",
+    "mattina"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:上午",
+   "hanzi": "上午",
+   "pinyin": "shàngwǔ",
+   "altPinyin": [],
+   "meaning": "mattina",
+   "answers": [
+    "mattina"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:中午",
+   "hanzi": "中午",
+   "pinyin": "zhōngwǔ",
+   "altPinyin": [],
+   "meaning": "mezzogiorno",
+   "answers": [
+    "mezzogiorno"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:下午",
+   "hanzi": "下午",
+   "pinyin": "xiàwǔ",
+   "altPinyin": [],
+   "meaning": "pomeriggio",
+   "answers": [
+    "pomeriggio"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:晚上",
+   "hanzi": "晚上",
+   "pinyin": "wǎnshang",
+   "altPinyin": [],
+   "meaning": "sera",
+   "answers": [
+    "sera",
+    "serata"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Internet e tempo",
+   "tags": [
+    "word",
+    "word:Internet e tempo"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:妈妈",
+   "hanzi": "妈妈",
+   "pinyin": "māma",
+   "altPinyin": [],
+   "meaning": "mamma",
+   "answers": [
+    "mamma",
+    "madre"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Altro",
+   "tags": [
+    "word",
+    "word:Altro"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:大学",
+   "hanzi": "大学",
+   "pinyin": "dàxué",
+   "altPinyin": [],
+   "meaning": "università",
+   "answers": [
+    "università"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Altro",
+   "tags": [
+    "word",
+    "word:Altro"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:学校",
+   "hanzi": "学校",
+   "pinyin": "xuéxiào",
+   "altPinyin": [],
+   "meaning": "scuola",
+   "answers": [
+    "scuola"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Altro",
+   "tags": [
+    "word",
+    "word:Altro"
+   ],
+   "speak": true
+  },
+  {
+   "id": "word:教室",
+   "hanzi": "教室",
+   "pinyin": "jiàoshì",
+   "altPinyin": [],
+   "meaning": "aula",
+   "answers": [
+    "aula"
+   ],
+   "note": "",
+   "type": "word",
+   "group": "Altro",
+   "tags": [
+    "word",
+    "word:Altro"
+   ],
+   "speak": true
+  },
+  {
+   "id": "piece:亻",
+   "hanzi": "亻",
+   "pinyin": "rén",
+   "altPinyin": [],
+   "meaning": "persona",
+   "answers": [
+    "persona"
+   ],
+   "note": "variante a sinistra di 人",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:皿",
+   "hanzi": "皿",
+   "pinyin": "mǐn",
+   "altPinyin": [],
+   "meaning": "recipiente",
+   "answers": [
+    "recipiente"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:戈",
+   "hanzi": "戈",
+   "pinyin": "gē",
+   "altPinyin": [],
+   "meaning": "lancia",
+   "answers": [
+    "lancia"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:田",
+   "hanzi": "田",
+   "pinyin": "tián",
+   "altPinyin": [],
+   "meaning": "campo",
+   "answers": [
+    "campo"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:力",
+   "hanzi": "力",
+   "pinyin": "lì",
+   "altPinyin": [],
+   "meaning": "forza",
+   "answers": [
+    "forza"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:门",
+   "hanzi": "门",
+   "pinyin": "mén",
+   "altPinyin": [],
+   "meaning": "porta",
+   "answers": [
+    "porta"
+   ],
+   "note": "dà il suono in 们",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:禾",
+   "hanzi": "禾",
+   "pinyin": "hé",
+   "altPinyin": [],
+   "meaning": "grano",
+   "answers": [
+    "grano"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:宀",
+   "hanzi": "宀",
+   "pinyin": "mián",
+   "altPinyin": [],
+   "meaning": "tetto, casa",
+   "answers": [
+    "tetto, casa",
+    "tetto",
+    "casa"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:讠",
+   "hanzi": "讠",
+   "pinyin": "yán",
+   "altPinyin": [],
+   "meaning": "parlare",
+   "answers": [
+    "parlare"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:辶",
+   "hanzi": "辶",
+   "pinyin": "chuò",
+   "altPinyin": [],
+   "meaning": "camminare",
+   "answers": [
+    "camminare"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:阝",
+   "hanzi": "阝",
+   "pinyin": "yì",
+   "altPinyin": [],
+   "meaning": "città, villaggio",
+   "answers": [
+    "città, villaggio",
+    "città",
+    "villaggio"
+   ],
+   "note": "a destra",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:又",
+   "hanzi": "又",
+   "pinyin": "yòu",
+   "altPinyin": [],
+   "meaning": "mano destra",
+   "answers": [
+    "mano destra"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:尸",
+   "hanzi": "尸",
+   "pinyin": "shī",
+   "altPinyin": [],
+   "meaning": "figura accovacciata",
+   "answers": [
+    "figura accovacciata"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:耂",
+   "hanzi": "耂",
+   "pinyin": "lǎo",
+   "altPinyin": [],
+   "meaning": "anziano",
+   "answers": [
+    "anziano"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:纟",
+   "hanzi": "纟",
+   "pinyin": "sī",
+   "altPinyin": [],
+   "meaning": "seta, filo",
+   "answers": [
+    "seta, filo",
+    "seta",
+    "filo"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:子",
+   "hanzi": "子",
+   "pinyin": "zǐ",
+   "altPinyin": [],
+   "meaning": "bambino",
+   "answers": [
+    "bambino"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "piece:土",
+   "hanzi": "土",
+   "pinyin": "tǔ",
+   "altPinyin": [],
+   "meaning": "terra",
+   "answers": [
+    "terra"
+   ],
+   "note": "",
+   "type": "piece",
+   "group": null,
+   "tags": [
+    "piece"
+   ],
+   "speak": false
+  },
+  {
+   "id": "char:森",
+   "hanzi": "森",
+   "pinyin": "sēn",
+   "altPinyin": [],
+   "meaning": "foresta",
+   "answers": [
+    "foresta"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:休",
+   "hanzi": "休",
+   "pinyin": "xiū",
+   "altPinyin": [],
+   "meaning": "riposare",
+   "answers": [
+    "riposare"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:炎",
+   "hanzi": "炎",
+   "pinyin": "yán",
+   "altPinyin": [],
+   "meaning": "rovente",
+   "answers": [
+    "rovente"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:明",
+   "hanzi": "明",
+   "pinyin": "míng",
+   "altPinyin": [],
+   "meaning": "luminoso",
+   "answers": [
+    "luminoso"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  },
+  {
+   "id": "char:从",
+   "hanzi": "从",
+   "pinyin": "cóng",
+   "altPinyin": [],
+   "meaning": "seguire",
+   "answers": [
+    "seguire"
+   ],
+   "note": "",
+   "type": "char",
+   "group": null,
+   "tags": [
+    "char"
+   ],
+   "speak": true
+  }
+ ],
+ "compounds": [
+  {
+   "id": "comp:森",
+   "hanzi": "森",
+   "pinyin": "sēn",
+   "kind": "picture",
+   "entry": "char:森",
+   "meaning": "foresta",
+   "parts": [
+    {
+     "hanzi": "木",
+     "pinyin": "mù"
+    },
+    {
+     "hanzi": "木",
+     "pinyin": "mù"
+    },
+    {
+     "hanzi": "木",
+     "pinyin": "mù"
+    }
+   ]
+  },
+  {
+   "id": "comp:休",
+   "hanzi": "休",
+   "pinyin": "xiū",
+   "kind": "picture",
+   "entry": "char:休",
+   "meaning": "riposare",
+   "parts": [
+    {
+     "hanzi": "亻",
+     "pinyin": "rén"
+    },
+    {
+     "hanzi": "木",
+     "pinyin": "mù"
+    }
+   ]
+  },
+  {
+   "id": "comp:炎",
+   "hanzi": "炎",
+   "pinyin": "yán",
+   "kind": "picture",
+   "entry": "char:炎",
+   "meaning": "rovente",
+   "parts": [
+    {
+     "hanzi": "火",
+     "pinyin": "huǒ"
+    },
+    {
+     "hanzi": "火",
+     "pinyin": "huǒ"
+    }
+   ]
+  },
+  {
+   "id": "comp:明",
+   "hanzi": "明",
+   "pinyin": "míng",
+   "kind": "picture",
+   "entry": "char:明",
+   "meaning": "luminoso",
+   "parts": [
+    {
+     "hanzi": "日",
+     "pinyin": "rì"
+    },
+    {
+     "hanzi": "月",
+     "pinyin": "yuè"
+    }
+   ]
+  },
+  {
+   "id": "comp:从",
+   "hanzi": "从",
+   "pinyin": "cóng",
+   "kind": "picture",
+   "entry": "char:从",
+   "meaning": "seguire",
+   "parts": [
+    {
+     "hanzi": "人",
+     "pinyin": "rén"
+    },
+    {
+     "hanzi": "人",
+     "pinyin": "rén"
+    }
+   ]
+  },
+  {
+   "id": "comp:男",
+   "hanzi": "男",
+   "pinyin": "nán",
+   "kind": "picture",
+   "entry": "char:男",
+   "meaning": "maschio",
+   "parts": [
+    {
+     "hanzi": "田",
+     "pinyin": "tián"
+    },
+    {
+     "hanzi": "力",
+     "pinyin": "lì"
+    }
+   ]
+  },
+  {
+   "id": "comp:妈",
+   "hanzi": "妈",
+   "pinyin": "mā",
+   "kind": "phonetic",
+   "entry": "char:妈",
+   "meaning": "mamma",
+   "parts": [
+    {
+     "hanzi": "女",
+     "pinyin": "nǚ",
+     "role": "sense"
+    },
+    {
+     "hanzi": "马",
+     "pinyin": "mǎ",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:吗",
+   "hanzi": "吗",
+   "pinyin": "ma",
+   "kind": "phonetic",
+   "entry": "particle:吗",
+   "meaning": "rende la frase una domanda sì/no",
+   "parts": [
+    {
+     "hanzi": "口",
+     "pinyin": "kǒu",
+     "role": "sense"
+    },
+    {
+     "hanzi": "马",
+     "pinyin": "mǎ",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:们",
+   "hanzi": "们",
+   "pinyin": "men",
+   "kind": "phonetic",
+   "entry": "particle:们",
+   "meaning": "suffisso del plurale per le persone",
+   "parts": [
+    {
+     "hanzi": "亻",
+     "pinyin": "rén",
+     "role": "sense"
+    },
+    {
+     "hanzi": "门",
+     "pinyin": "mén",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:程",
+   "hanzi": "程",
+   "pinyin": "chéng",
+   "kind": "phonetic",
+   "entry": "char:程",
+   "meaning": "percorso, procedura",
+   "parts": [
+    {
+     "hanzi": "禾",
+     "pinyin": "hé",
+     "role": "sense"
+    },
+    {
+     "hanzi": "呈",
+     "pinyin": "chéng",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:谁",
+   "hanzi": "谁",
+   "pinyin": "shéi",
+   "kind": "phonetic",
+   "entry": "char:谁",
+   "meaning": "chi",
+   "parts": [
+    {
+     "hanzi": "讠",
+     "pinyin": "yán",
+     "role": "sense"
+    },
+    {
+     "hanzi": "隹",
+     "pinyin": "zhuī",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:邻",
+   "hanzi": "邻",
+   "pinyin": "lín",
+   "kind": "phonetic",
+   "entry": "char:邻",
+   "meaning": "vicino",
+   "parts": [
+    {
+     "hanzi": "阝",
+     "pinyin": "yì",
+     "role": "sense"
+    },
+    {
+     "hanzi": "令",
+     "pinyin": "lìng",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:居",
+   "hanzi": "居",
+   "pinyin": "jū",
+   "kind": "phonetic",
+   "entry": "char:居",
+   "meaning": "abitare",
+   "parts": [
+    {
+     "hanzi": "尸",
+     "pinyin": "shī",
+     "role": "sense"
+    },
+    {
+     "hanzi": "古",
+     "pinyin": "gǔ",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:板",
+   "hanzi": "板",
+   "pinyin": "bǎn",
+   "kind": "phonetic",
+   "entry": "char:板",
+   "meaning": "asse",
+   "parts": [
+    {
+     "hanzi": "木",
+     "pinyin": "mù",
+     "role": "sense"
+    },
+    {
+     "hanzi": "反",
+     "pinyin": "fǎn",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:室",
+   "hanzi": "室",
+   "pinyin": "shì",
+   "kind": "phonetic",
+   "entry": "char:室",
+   "meaning": "stanza",
+   "parts": [
+    {
+     "hanzi": "宀",
+     "pinyin": "mián",
+     "role": "sense"
+    },
+    {
+     "hanzi": "至",
+     "pinyin": "zhì",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:络",
+   "hanzi": "络",
+   "pinyin": "luò",
+   "kind": "phonetic",
+   "entry": "char:络",
+   "meaning": "rete, collegamento",
+   "parts": [
+    {
+     "hanzi": "纟",
+     "pinyin": "sī",
+     "role": "sense"
+    },
+    {
+     "hanzi": "各",
+     "pinyin": "gè",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:晚",
+   "hanzi": "晚",
+   "pinyin": "wǎn",
+   "kind": "phonetic",
+   "entry": "char:晚",
+   "meaning": "tardi, sera",
+   "parts": [
+    {
+     "hanzi": "日",
+     "pinyin": "rì",
+     "role": "sense"
+    },
+    {
+     "hanzi": "免",
+     "pinyin": "miǎn",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:哪",
+   "hanzi": "哪",
+   "pinyin": "nǎ",
+   "kind": "phonetic",
+   "entry": "char:哪",
+   "meaning": "dove, quale",
+   "parts": [
+    {
+     "hanzi": "口",
+     "pinyin": "kǒu",
+     "role": "sense"
+    },
+    {
+     "hanzi": "那",
+     "pinyin": "nà",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:嗨",
+   "hanzi": "嗨",
+   "pinyin": "hāi",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "口",
+     "pinyin": "kǒu",
+     "role": "sense"
+    },
+    {
+     "hanzi": "海",
+     "pinyin": "hǎi",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:旺",
+   "hanzi": "旺",
+   "pinyin": "wàng",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "日",
+     "pinyin": "rì",
+     "role": "sense"
+    },
+    {
+     "hanzi": "王",
+     "pinyin": "wáng",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:岗",
+   "hanzi": "岗",
+   "pinyin": "gǎng",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "山",
+     "pinyin": "shān",
+     "role": "sense"
+    },
+    {
+     "hanzi": "冈",
+     "pinyin": "gāng",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:咏",
+   "hanzi": "咏",
+   "pinyin": "yǒng",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "口",
+     "pinyin": "kǒu",
+     "role": "sense"
+    },
+    {
+     "hanzi": "永",
+     "pinyin": "yǒng",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:盅",
+   "hanzi": "盅",
+   "pinyin": "zhōng",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "皿",
+     "pinyin": "mǐn",
+     "role": "sense"
+    },
+    {
+     "hanzi": "中",
+     "pinyin": "zhōng",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:战",
+   "hanzi": "战",
+   "pinyin": "zhàn",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "戈",
+     "pinyin": "gē",
+     "role": "sense"
+    },
+    {
+     "hanzi": "占",
+     "pinyin": "zhàn",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:蛛",
+   "hanzi": "蛛",
+   "pinyin": "zhū",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "虫",
+     "pinyin": "chóng",
+     "role": "sense"
+    },
+    {
+     "hanzi": "朱",
+     "pinyin": "zhū",
+     "role": "sound"
+    }
+   ]
+  },
+  {
+   "id": "comp:财",
+   "hanzi": "财",
+   "pinyin": "cái",
+   "kind": "phonetic",
+   "entry": null,
+   "meaning": null,
+   "parts": [
+    {
+     "hanzi": "贝",
+     "pinyin": "bèi",
+     "role": "sense"
+    },
+    {
+     "hanzi": "才",
+     "pinyin": "cái",
+     "role": "sound"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="it" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Impara il cinese</title>
+  <meta name="description" content="Esercizi per imparare il cinese: ascolto con pinyin, flashcard, pezzi dei caratteri, ordine dei tratti e statistiche.">
+  <meta name="theme-color" content="#e6ebef">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%231d3f72'/%3E%3Ctext x='32' y='47' font-size='42' text-anchor='middle' fill='%23fff' font-family='KaiTi,serif'%3E%E4%B8%AD%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // Applica subito il tema salvato, per evitare il lampo di colore.
+    (function () {
+      try {
+        var s = JSON.parse(localStorage.getItem('impara-cinese:v1') || '{}').settings || {};
+        var t = s.theme;
+        if (t !== 'light' && t !== 'dark') t = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Vai al contenuto</a>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Impara il cinese, pagina iniziale">
+      <span class="seal" aria-hidden="true">中</span>
+      <span class="brand-name">Impara il cinese</span>
+    </a>
+    <nav id="nav" class="nav" aria-label="Sezioni"></nav>
+    <div id="tools" class="tools" role="group" aria-label="Preferenze"></div>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <dialog id="settings" class="dlg" aria-label="Impostazioni"></dialog>
+  <dialog id="detail" class="dlg" aria-label="Dettaglio della voce"></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <noscript><p style="padding:2rem">Questo sito ha bisogno di JavaScript per funzionare.</p></noscript>
+
+  <script src="js/data.js"></script>
+  <script src="js/util.js"></script>
+  <script src="js/match.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/speech.js"></script>
+  <script src="js/strokes.js"></script>
+  <script src="js/practice.js"></script>
+  <script src="js/pieces.js"></script>
+  <script src="js/stats.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
